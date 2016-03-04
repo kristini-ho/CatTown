@@ -1,0 +1,10 @@
+PODS:
+  - HoneycombView (1.1.2)
+
+DEPENDENCIES:
+  - HoneycombView
+
+SPEC CHECKSUMS:
+  HoneycombView: 2a88b3f156d913fa1e572851389171def1f774c8
+
+COCOAPODS: 0.39.0

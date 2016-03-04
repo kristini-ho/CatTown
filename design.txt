@@ -1,0 +1,13 @@
+This is more of a preference/generalization from various apps, but I noticed that some apps have a home screen that is kind of like a gate before entering the actual app. Or, certain games, like neko or other popular games have a cute loading screen. 
+
+I also noticed that some apps’ starting screens have a faded background and some text overlaid on top. Combining these two ideas, my partner Alice and I decided to add a cute beginning screen that segues into the views controlled by the tab bar if the user taps on the screen to “enter the cat town.”
+
+Then, the user is taken to the actual app features and can explore our various cat-themed tabs.
+
+To answer the questions more directly,
+
+1) The apps from which design inspiration was drawn include Neko (cute loading screen), certain photo/weather apps (with faded background), and game apps with a “tap to begin” button.
+
+2) The design element mimic’d was the idea of a starting screen that doesn’t really do anything but acts as a pretty gate/door for the user to “open” to go inside the app.
+
+3) I found it appealing because it kind of just adds an element of fun, a “time to begin using the app!!!” kind of feeling rather than the app contents being revealed right away.
